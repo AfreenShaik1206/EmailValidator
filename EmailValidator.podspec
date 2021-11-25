@@ -11,6 +11,6 @@ Pod::Spec.new do |spec|
   spec.author             = { "Afreen" => "afreen.shaik@amzur.com" }
   spec.platform     = :ios, "14.5"
   spec.source       = { :git => "https://github.com/AfreenShaik1206/EmailValidator.git", :tag => spec.version.to_s }
-  spec.source_files  = "validator/**/*.{swift}"
+  spec.source_files  = "Validator/MailValidator/*.{swift}"
   spec.swift_versions = "5.0"
 end
