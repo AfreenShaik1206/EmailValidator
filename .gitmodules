@@ -1,0 +1,3 @@
+[submodule "EmailValidator"]
+	path = EmailValidator
+	url = https://github.com/AfreenShaik1206/EmailValidator.git
