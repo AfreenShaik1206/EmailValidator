@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  EmailValidaion
+//  Example
 //
 //  Created by Amzur on 25/11/21.
 //
